@@ -1,0 +1,28 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Bungee Experience",
+      "price": 120.99,
+      "imgUrl": "/imgs/book.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Fishing Experience",
+      "price": 119.99,
+      "imgUrl": "/imgs/computer.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Horse riding experience",
+      "price": 150.99,
+      "imgUrl": "/imgs/banana.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "sky diving experience",
+      "price": 280.89,
+      "imgUrl": "/imgs/car.jpeg"
+    }
+  ]
